@@ -14,5 +14,7 @@ public class HelloWorld : MonoBehaviour
         Debug.Log("Hello from Update!");
 
         Debug.Log("This is a new addition in Update!");
+
+        Debug.Log("Another change");
     }
 }
